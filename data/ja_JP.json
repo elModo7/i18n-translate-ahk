@@ -1,0 +1,8 @@
+{
+    "language_name": "日本語",
+    "language_code": "ja_JP",
+    "translations": {
+        "start_with_windows": "Windowsを起動する",
+        "author": "著者: {author} \n2025"
+    }
+}

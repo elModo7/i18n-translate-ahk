@@ -1,0 +1,8 @@
+{
+    "language_name": "English",
+    "language_code": "en_US",
+    "translations": {
+        "start_with_windows": "Start with Windows",
+        "author": "Author: {author} \n2025"
+    }
+}

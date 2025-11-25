@@ -1,0 +1,8 @@
+{
+    "language_name": "Español",
+    "language_code": "es_ES",
+    "translations": {
+        "start_with_windows": "Iniciar con Windows",
+        "author": "Autor: {author} \n2025"
+    }
+}

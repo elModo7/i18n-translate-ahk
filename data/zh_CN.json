@@ -1,0 +1,8 @@
+{
+    "language_name": "中文",
+    "language_code": "zh_CN",
+    "translations": {
+        "start_with_windows": "从 Windows 开始",
+        "author": "作者: {author} \n2025"
+    }
+}
