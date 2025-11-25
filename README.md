@@ -14,7 +14,7 @@ An easy way to translate your apps to multiple languages.
 
 ```autohotkey
 #Include <i18n>
-i18n := new i18n("", "es_ES", ["en_US"])
+i18n := new i18n("", "es_ES", ["en_US"]) ; Inits in Spanish, fallbacks to English
 i18n.LoadFile("translations/es_ES.json")
 i18n.LoadFile("translations/en_US.json")
 
